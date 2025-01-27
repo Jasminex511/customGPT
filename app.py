@@ -73,7 +73,6 @@ def get_schema():
         raise
 
 # Generate SQL using GPT
-# Generate SQL using GPT
 def generate_sql(natural_language_query):
     try:
         schema = get_schema()  # Dynamically fetch schema
