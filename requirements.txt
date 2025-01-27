@@ -1,5 +1,5 @@
 flask
 snowflake-connector-python
-openai==0.28
+openai
 python-dotenv
 streamlit
