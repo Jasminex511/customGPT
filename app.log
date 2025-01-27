@@ -1,0 +1,684 @@
+2025-01-26 22:57:47,920 - INFO - Starting Flask app.
+2025-01-26 22:57:47,926 - WARNING - Python-dotenv could not parse statement starting at line 5
+2025-01-26 22:57:47,981 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 22:57:47,981 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 22:57:50,824 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:01:49,448 - INFO - Starting Flask app.
+2025-01-26 23:01:49,455 - WARNING - Python-dotenv could not parse statement starting at line 5
+2025-01-26 23:01:49,509 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:01:49,509 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:01:51,247 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:04:55,923 - INFO - Starting Flask app.
+2025-01-26 23:04:55,929 - WARNING - Python-dotenv could not parse statement starting at line 5
+2025-01-26 23:04:55,979 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:04:55,979 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:04:57,485 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:08:37,082 - INFO - Starting Flask app.
+2025-01-26 23:08:37,088 - WARNING - Python-dotenv could not parse statement starting at line 5
+2025-01-26 23:08:37,142 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:08:37,142 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:08:39,225 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:10:50,204 - INFO - Starting Flask app.
+2025-01-26 23:10:50,210 - WARNING - Python-dotenv could not parse statement starting at line 5
+2025-01-26 23:10:50,262 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:10:50,262 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:10:52,193 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:10:52,288 - ERROR - Failed to connect to the database: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:10:52,288 - ERROR - Failed to fetch database schema: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:10:52,288 - ERROR - Failed to generate SQL: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:10:52,288 - ERROR - Error handling user query: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:10:52,289 - INFO - 127.0.0.1 - - [26/Jan/2025 23:10:52] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:11:11,374 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:11:11,407 - ERROR - Failed to connect to the database: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:11:11,408 - ERROR - Failed to fetch database schema: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:11:11,408 - ERROR - Failed to generate SQL: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:11:11,408 - ERROR - Error handling user query: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:11:11,408 - INFO - 127.0.0.1 - - [26/Jan/2025 23:11:11] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:11:44,802 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:11:44,806 - ERROR - Failed to connect to the database: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:11:44,806 - ERROR - Failed to fetch database schema: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:11:44,806 - ERROR - Failed to generate SQL: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:11:44,806 - ERROR - Error handling user query: could not translate host name "https://gnnymum-cl46414.snowflakecomputing.com/" to address: nodename nor servname provided, or not known
+
+2025-01-26 23:11:44,807 - INFO - 127.0.0.1 - - [26/Jan/2025 23:11:44] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:11:54,505 - INFO - Starting Flask app.
+2025-01-26 23:11:54,510 - WARNING - Python-dotenv could not parse statement starting at line 5
+2025-01-26 23:11:54,566 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:11:54,566 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:11:56,527 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:12:19,470 - INFO - Starting Flask app.
+2025-01-26 23:12:19,521 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:12:19,521 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:12:21,349 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:15:55,839 - INFO - Starting Flask app.
+2025-01-26 23:15:55,895 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:15:55,895 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:15:57,138 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:15:57,138 - INFO - Fetching database schema...
+2025-01-26 23:15:57,138 - INFO - Attempting to connect to the database...
+2025-01-26 23:20:29,831 - INFO - Starting Flask app.
+2025-01-26 23:20:29,879 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:20:29,879 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:20:32,253 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:20:32,253 - INFO - Fetching database schema...
+2025-01-26 23:20:32,253 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:20:32,254 - ERROR - Failed to connect to Snowflake: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:20:32,254 - ERROR - Failed to fetch database schema: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:20:32,254 - ERROR - Failed to generate SQL: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:20:32,254 - ERROR - Error handling user query: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:20:32,255 - INFO - 127.0.0.1 - - [26/Jan/2025 23:20:32] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:20:43,264 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:20:43,265 - INFO - Fetching database schema...
+2025-01-26 23:20:43,266 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:20:43,266 - ERROR - Failed to connect to Snowflake: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:20:43,266 - ERROR - Failed to fetch database schema: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:20:43,266 - ERROR - Failed to generate SQL: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:20:43,266 - ERROR - Error handling user query: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:20:43,267 - INFO - 127.0.0.1 - - [26/Jan/2025 23:20:43] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:23:49,899 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:23:49,900 - INFO - Fetching database schema...
+2025-01-26 23:23:49,900 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:23:49,900 - ERROR - Failed to connect to Snowflake: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:23:49,900 - ERROR - Failed to fetch database schema: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:23:49,900 - ERROR - Failed to generate SQL: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:23:49,900 - ERROR - Error handling user query: module 'snowflake' has no attribute 'connector'
+2025-01-26 23:23:49,901 - INFO - 127.0.0.1 - - [26/Jan/2025 23:23:49] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:23:58,490 - INFO - Starting Flask app.
+2025-01-26 23:23:58,543 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:23:58,543 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:24:00,893 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:24:00,894 - INFO - Fetching database schema...
+2025-01-26 23:24:00,894 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:24:00,894 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:24:00,895 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:24:00,895 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:24:01,873 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:24:01,873 - INFO - Fetching table names...
+2025-01-26 23:24:02,020 - INFO - Found 2 tables.
+2025-01-26 23:24:02,020 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:24:02,093 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:24:02,093 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:24:02,174 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:24:02,175 - INFO - closed
+2025-01-26 23:24:02,211 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:24:02,247 - INFO - Successfully fetched database schema.
+2025-01-26 23:24:02,248 - INFO - Generating SQL query using GPT.
+2025-01-26 23:24:02,248 - ERROR - Failed to generate SQL: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-26 23:24:02,248 - ERROR - Error handling user query: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-26 23:24:02,249 - INFO - 127.0.0.1 - - [26/Jan/2025 23:24:02] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:24:55,552 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:24:55,552 - INFO - Fetching database schema...
+2025-01-26 23:24:55,552 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:24:55,552 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:24:55,552 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:24:55,553 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:24:56,043 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:24:56,044 - INFO - Fetching table names...
+2025-01-26 23:24:56,172 - INFO - Found 2 tables.
+2025-01-26 23:24:56,172 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:24:56,243 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:24:56,243 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:24:56,302 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:24:56,302 - INFO - closed
+2025-01-26 23:24:56,337 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:24:56,384 - INFO - Successfully fetched database schema.
+2025-01-26 23:24:56,385 - INFO - Generating SQL query using GPT.
+2025-01-26 23:24:56,385 - ERROR - Failed to generate SQL: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-26 23:24:56,385 - ERROR - Error handling user query: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-26 23:24:56,386 - INFO - 127.0.0.1 - - [26/Jan/2025 23:24:56] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:25:23,375 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:25:23,375 - INFO - Fetching database schema...
+2025-01-26 23:25:23,376 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:25:23,377 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:25:23,378 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:25:23,378 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:25:23,899 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:25:23,900 - INFO - Fetching table names...
+2025-01-26 23:25:23,990 - INFO - Found 2 tables.
+2025-01-26 23:25:23,991 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:25:24,073 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:25:24,074 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:25:24,147 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:25:24,148 - INFO - closed
+2025-01-26 23:25:24,191 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:25:24,233 - INFO - Successfully fetched database schema.
+2025-01-26 23:25:24,233 - INFO - Generating SQL query using GPT.
+2025-01-26 23:25:24,234 - ERROR - Failed to generate SQL: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-26 23:25:24,234 - ERROR - Error handling user query: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-26 23:25:24,235 - INFO - 127.0.0.1 - - [26/Jan/2025 23:25:24] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:25:37,336 - INFO - Starting Flask app.
+2025-01-26 23:25:37,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:25:37,386 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:25:40,325 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:25:40,325 - INFO - Fetching database schema...
+2025-01-26 23:25:40,325 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:25:40,326 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:25:40,326 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:25:40,326 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:25:40,692 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:25:40,692 - INFO - Fetching table names...
+2025-01-26 23:25:40,821 - INFO - Found 2 tables.
+2025-01-26 23:25:40,821 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:25:40,897 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:25:40,898 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:25:40,982 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:25:40,982 - INFO - closed
+2025-01-26 23:25:41,015 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:25:41,059 - INFO - Successfully fetched database schema.
+2025-01-26 23:25:41,060 - INFO - Generating SQL query using GPT.
+2025-01-26 23:25:41,060 - ERROR - Failed to generate SQL: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:25:41,060 - ERROR - Error handling user query: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:25:41,062 - INFO - 127.0.0.1 - - [26/Jan/2025 23:25:41] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:26:43,762 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:26:43,764 - INFO - Fetching database schema...
+2025-01-26 23:26:43,764 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:26:43,765 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:26:43,766 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:26:43,766 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:26:44,288 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:26:44,288 - INFO - Fetching table names...
+2025-01-26 23:26:44,396 - INFO - Found 2 tables.
+2025-01-26 23:26:44,396 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:26:44,457 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:26:44,457 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:26:44,529 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:26:44,529 - INFO - closed
+2025-01-26 23:26:44,567 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:26:44,632 - INFO - Successfully fetched database schema.
+2025-01-26 23:26:44,633 - INFO - Generating SQL query using GPT.
+2025-01-26 23:26:44,634 - ERROR - Failed to generate SQL: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:26:44,634 - ERROR - Error handling user query: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:26:44,635 - INFO - 127.0.0.1 - - [26/Jan/2025 23:26:44] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:26:49,818 - INFO - Starting Flask app.
+2025-01-26 23:26:49,876 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:26:49,876 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:26:51,303 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:26:51,303 - INFO - Fetching database schema...
+2025-01-26 23:26:51,303 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:26:51,304 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:26:51,304 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:26:51,304 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:26:51,759 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:26:51,759 - INFO - Fetching table names...
+2025-01-26 23:26:51,891 - INFO - Found 2 tables.
+2025-01-26 23:26:51,891 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:26:51,938 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:26:51,938 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:26:51,998 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:26:51,998 - INFO - closed
+2025-01-26 23:26:52,028 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:26:52,068 - INFO - Successfully fetched database schema.
+2025-01-26 23:26:52,068 - INFO - Generating SQL query using GPT.
+2025-01-26 23:26:52,069 - ERROR - Failed to generate SQL: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:26:52,070 - ERROR - Error handling user query: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:26:52,071 - INFO - 127.0.0.1 - - [26/Jan/2025 23:26:52] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:27:47,971 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:27:47,971 - INFO - Fetching database schema...
+2025-01-26 23:27:47,972 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:27:47,973 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:27:47,974 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:27:47,974 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:27:48,437 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:27:48,438 - INFO - Fetching table names...
+2025-01-26 23:27:48,519 - INFO - Found 2 tables.
+2025-01-26 23:27:48,519 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:27:48,574 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:27:48,575 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:27:48,651 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:27:48,652 - INFO - closed
+2025-01-26 23:27:48,692 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:27:48,734 - INFO - Successfully fetched database schema.
+2025-01-26 23:27:48,735 - INFO - Generating SQL query using GPT.
+2025-01-26 23:27:48,735 - ERROR - Failed to generate SQL: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:27:48,735 - ERROR - Error handling user query: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:27:48,736 - INFO - 127.0.0.1 - - [26/Jan/2025 23:27:48] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:27:53,483 - INFO - Starting Flask app.
+2025-01-26 23:27:53,534 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:27:53,534 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:27:55,138 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:27:55,138 - INFO - Fetching database schema...
+2025-01-26 23:27:55,138 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:27:55,139 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:27:55,139 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:27:55,139 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:27:55,512 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:27:55,512 - INFO - Fetching table names...
+2025-01-26 23:27:55,643 - INFO - Found 2 tables.
+2025-01-26 23:27:55,643 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:27:55,697 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:27:55,697 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:27:55,745 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:27:55,745 - INFO - closed
+2025-01-26 23:27:55,774 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:27:55,813 - INFO - Successfully fetched database schema.
+2025-01-26 23:27:55,813 - INFO - Generating SQL query using GPT.
+2025-01-26 23:27:55,813 - ERROR - Failed to generate SQL: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:27:55,813 - ERROR - Error handling user query: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:27:55,815 - INFO - 127.0.0.1 - - [26/Jan/2025 23:27:55] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:29:40,292 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:29:40,293 - INFO - Fetching database schema...
+2025-01-26 23:29:40,293 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:29:40,294 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:29:40,295 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:29:40,295 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:29:40,735 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:29:40,735 - INFO - Fetching table names...
+2025-01-26 23:29:40,828 - INFO - Found 2 tables.
+2025-01-26 23:29:40,828 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:29:40,898 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:29:40,899 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:29:40,960 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:29:40,961 - INFO - closed
+2025-01-26 23:29:40,996 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:29:41,046 - INFO - Successfully fetched database schema.
+2025-01-26 23:29:41,046 - INFO - Generating SQL query using GPT.
+2025-01-26 23:29:41,047 - ERROR - Failed to generate SQL: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:29:41,047 - ERROR - Error handling user query: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-01-26 23:29:41,048 - INFO - 127.0.0.1 - - [26/Jan/2025 23:29:41] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:29:45,077 - INFO - Starting Flask app.
+2025-01-26 23:29:45,134 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:29:45,134 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:29:46,384 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:29:46,384 - INFO - Fetching database schema...
+2025-01-26 23:29:46,384 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:29:46,384 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:29:46,385 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:29:46,385 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:29:46,762 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:29:46,762 - INFO - Fetching table names...
+2025-01-26 23:29:46,901 - INFO - Found 2 tables.
+2025-01-26 23:29:46,901 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:29:46,953 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:29:46,953 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:29:47,003 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:29:47,003 - INFO - closed
+2025-01-26 23:29:47,036 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:29:47,074 - INFO - Successfully fetched database schema.
+2025-01-26 23:29:47,075 - INFO - Generating SQL query using GPT.
+2025-01-26 23:29:47,885 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-01-26 23:29:47,886 - ERROR - Failed to generate SQL: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:29:47,886 - ERROR - Error handling user query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:29:47,888 - INFO - 127.0.0.1 - - [26/Jan/2025 23:29:47] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:31:29,290 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:31:29,291 - INFO - Fetching database schema...
+2025-01-26 23:31:29,291 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:31:29,292 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:31:29,293 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:31:29,293 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:31:29,692 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:31:29,692 - INFO - Fetching table names...
+2025-01-26 23:31:29,788 - INFO - Found 2 tables.
+2025-01-26 23:31:29,788 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:31:29,866 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:31:29,867 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:31:29,942 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:31:29,942 - INFO - closed
+2025-01-26 23:31:29,979 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:31:30,023 - INFO - Successfully fetched database schema.
+2025-01-26 23:31:30,024 - INFO - Generating SQL query using GPT.
+2025-01-26 23:31:30,149 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-01-26 23:31:30,150 - ERROR - Failed to generate SQL: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:31:30,151 - ERROR - Error handling user query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:31:30,152 - INFO - 127.0.0.1 - - [26/Jan/2025 23:31:30] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:31:39,928 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:31:39,929 - INFO - Fetching database schema...
+2025-01-26 23:31:39,929 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:31:39,929 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:31:39,929 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:31:39,929 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:31:40,297 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:31:40,297 - INFO - Fetching table names...
+2025-01-26 23:31:40,373 - INFO - Found 2 tables.
+2025-01-26 23:31:40,374 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:31:40,443 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:31:40,444 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:31:40,494 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:31:40,494 - INFO - closed
+2025-01-26 23:31:40,540 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:31:40,588 - INFO - Successfully fetched database schema.
+2025-01-26 23:31:40,589 - INFO - Generating SQL query using GPT.
+2025-01-26 23:31:40,669 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-01-26 23:31:40,670 - ERROR - Failed to generate SQL: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:31:40,670 - ERROR - Error handling user query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:31:40,671 - INFO - 127.0.0.1 - - [26/Jan/2025 23:31:40] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:32:08,782 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:32:08,782 - INFO - Fetching database schema...
+2025-01-26 23:32:08,782 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:32:08,783 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:32:08,783 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:32:08,783 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:32:09,119 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:32:09,120 - INFO - Fetching table names...
+2025-01-26 23:32:09,198 - INFO - Found 2 tables.
+2025-01-26 23:32:09,198 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:32:09,259 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:32:09,260 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:32:09,318 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:32:09,319 - INFO - closed
+2025-01-26 23:32:09,352 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:32:09,403 - INFO - Successfully fetched database schema.
+2025-01-26 23:32:09,403 - INFO - Generating SQL query using GPT.
+2025-01-26 23:32:09,504 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-01-26 23:32:09,504 - ERROR - Failed to generate SQL: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:32:09,504 - ERROR - Error handling user query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:32:09,505 - INFO - 127.0.0.1 - - [26/Jan/2025 23:32:09] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:32:56,568 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 23:32:56,569 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:33:20,510 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 23:33:20,511 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:33:55,079 - INFO - Starting Flask app.
+2025-01-26 23:33:55,128 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:33:55,128 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:34:00,159 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:34:00,159 - INFO - Fetching database schema...
+2025-01-26 23:34:00,159 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:34:00,160 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:34:00,160 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:34:00,160 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:34:00,713 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:34:00,714 - INFO - Fetching table names...
+2025-01-26 23:34:00,849 - INFO - Found 2 tables.
+2025-01-26 23:34:00,849 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:34:00,911 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:34:00,911 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:34:00,983 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:34:00,983 - INFO - closed
+2025-01-26 23:34:01,019 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:34:01,060 - INFO - Successfully fetched database schema.
+2025-01-26 23:34:01,060 - INFO - Generating SQL query using GPT.
+2025-01-26 23:34:01,162 - INFO - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-01-26 23:34:01,163 - ERROR - Failed to generate SQL: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:34:01,163 - ERROR - Error handling user query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2025-01-26 23:34:01,166 - INFO - 127.0.0.1 - - [26/Jan/2025 23:34:01] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:40:49,401 - WARNING - Python-dotenv could not parse statement starting at line 6
+2025-01-26 23:40:49,402 - INFO - Starting Flask app.
+2025-01-26 23:40:49,403 - WARNING - Python-dotenv could not parse statement starting at line 6
+2025-01-26 23:40:49,458 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:40:49,458 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:40:54,616 - INFO - Received user query: Show me the total sales for January 2024.
+2025-01-26 23:40:54,616 - INFO - Fetching database schema...
+2025-01-26 23:40:54,616 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:40:54,616 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:40:54,617 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:40:54,617 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:40:55,207 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:40:55,208 - INFO - Fetching table names...
+2025-01-26 23:40:55,381 - INFO - Found 2 tables.
+2025-01-26 23:40:55,381 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:40:55,452 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:40:55,452 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:40:55,531 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:40:55,531 - INFO - closed
+2025-01-26 23:40:55,570 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:40:55,615 - INFO - Successfully fetched database schema.
+2025-01-26 23:40:55,616 - INFO - Generating SQL query using GPT.
+2025-01-26 23:40:56,234 - INFO - Generated SQL: ```sql
+SELECT SUM(AMOUNT) AS TOTAL_SALES
+FROM SALES
+WHERE SALE_DATE BETWEEN '2024-01-01' AND '2024-01-31';
+```
+2025-01-26 23:40:56,235 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:40:56,235 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:40:56,236 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:40:56,236 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:40:56,636 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:40:56,637 - INFO - Executing SQL query: ```sql
+SELECT SUM(AMOUNT) AS TOTAL_SALES
+FROM SALES
+WHERE SALE_DATE BETWEEN '2024-01-01' AND '2024-01-31';
+```
+2025-01-26 23:40:56,713 - ERROR - Failed to execute SQL query: 001003 (42000): 01b9fbf8-3202-bba0-0005-f3d2000140ce: SQL compilation error:
+parse error line 1 at position 6 near '10'.
+syntax error line 1 at position 0 unexpected '``'.
+2025-01-26 23:40:56,714 - ERROR - Error handling user query: 001003 (42000): 01b9fbf8-3202-bba0-0005-f3d2000140ce: SQL compilation error:
+parse error line 1 at position 6 near '10'.
+syntax error line 1 at position 0 unexpected '``'.
+2025-01-26 23:40:56,715 - INFO - 127.0.0.1 - - [26/Jan/2025 23:40:56] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:43:35,421 - INFO - closed
+2025-01-26 23:43:35,424 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:43:37,087 - WARNING - Python-dotenv could not parse statement starting at line 6
+2025-01-26 23:43:37,088 - INFO - Starting Flask app.
+2025-01-26 23:43:37,089 - WARNING - Python-dotenv could not parse statement starting at line 6
+2025-01-26 23:43:37,137 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:43:37,137 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:43:53,571 - INFO - Received user query: Show me the total sales for January 2025.
+2025-01-26 23:43:53,571 - INFO - Fetching database schema...
+2025-01-26 23:43:53,571 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:43:53,572 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:43:53,573 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:43:53,573 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:43:54,100 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:43:54,101 - INFO - Fetching table names...
+2025-01-26 23:43:54,228 - INFO - Found 2 tables.
+2025-01-26 23:43:54,228 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:43:54,287 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:43:54,287 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:43:54,350 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:43:54,350 - INFO - closed
+2025-01-26 23:43:54,384 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:43:54,419 - INFO - Successfully fetched database schema.
+2025-01-26 23:43:54,419 - INFO - Generating SQL query using GPT.
+2025-01-26 23:44:01,885 - INFO - Generated SQL: ```sql
+SELECT SUM(AMOUNT) AS TOTAL_SALES
+FROM SALES
+WHERE SALE_DATE >= '2025-01-01' AND SALE_DATE <= '2025-01-31';
+```
+2025-01-26 23:44:01,886 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:44:01,886 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:44:01,887 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:44:01,887 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:44:02,290 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:44:02,290 - INFO - Executing SQL query: ```sql
+SELECT SUM(AMOUNT) AS TOTAL_SALES
+FROM SALES
+WHERE SALE_DATE >= '2025-01-01' AND SALE_DATE <= '2025-01-31';
+```
+2025-01-26 23:44:02,373 - ERROR - Failed to execute SQL query: 001003 (42000): 01b9fbfc-3202-bba0-0005-f3d200014102: SQL compilation error:
+parse error line 1 at position 6 near '10'.
+syntax error line 1 at position 0 unexpected '``'.
+2025-01-26 23:44:02,374 - ERROR - Error handling user query: 001003 (42000): 01b9fbfc-3202-bba0-0005-f3d200014102: SQL compilation error:
+parse error line 1 at position 6 near '10'.
+syntax error line 1 at position 0 unexpected '``'.
+2025-01-26 23:44:02,375 - INFO - 127.0.0.1 - - [26/Jan/2025 23:44:02] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2025-01-26 23:45:24,393 - INFO - closed
+2025-01-26 23:45:24,396 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:45:26,091 - WARNING - Python-dotenv could not parse statement starting at line 6
+2025-01-26 23:45:26,092 - INFO - Starting Flask app.
+2025-01-26 23:45:26,093 - WARNING - Python-dotenv could not parse statement starting at line 6
+2025-01-26 23:45:26,144 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:45:26,144 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:45:27,591 - INFO - Received user query: Show me the total sales for January 2025.
+2025-01-26 23:45:27,591 - INFO - Fetching database schema...
+2025-01-26 23:45:27,591 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:45:27,592 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:45:27,592 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:45:27,592 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:45:28,102 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:45:28,102 - INFO - Fetching table names...
+2025-01-26 23:45:28,240 - INFO - Found 2 tables.
+2025-01-26 23:45:28,241 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:45:28,308 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:45:28,308 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:45:28,398 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:45:28,399 - INFO - closed
+2025-01-26 23:45:28,434 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:45:28,473 - INFO - Successfully fetched database schema.
+2025-01-26 23:45:28,474 - INFO - Generating SQL query using GPT.
+2025-01-26 23:45:29,335 - INFO - Generated SQL: SELECT SUM(AMOUNT) AS TOTAL_SALES
+FROM SALES
+WHERE SALE_DATE BETWEEN '2025-01-01' AND '2025-01-31';
+2025-01-26 23:45:29,335 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:45:29,336 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:45:29,336 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:45:29,336 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:45:29,739 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:45:29,739 - INFO - Executing SQL query: SELECT SUM(AMOUNT) AS TOTAL_SALES
+FROM SALES
+WHERE SALE_DATE BETWEEN '2025-01-01' AND '2025-01-31';
+2025-01-26 23:45:30,161 - INFO - closed
+2025-01-26 23:45:30,194 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:45:30,245 - INFO - Successfully executed SQL query.
+2025-01-26 23:45:30,247 - INFO - Returning results: [(Decimal('445.50'),)]
+2025-01-26 23:45:30,248 - INFO - 127.0.0.1 - - [26/Jan/2025 23:45:30] "POST /query HTTP/1.1" 200 -
+2025-01-26 23:46:50,884 - WARNING - Python-dotenv could not parse statement starting at line 6
+2025-01-26 23:46:50,885 - INFO - Starting Flask app.
+2025-01-26 23:46:50,886 - WARNING - Python-dotenv could not parse statement starting at line 6
+2025-01-26 23:46:50,936 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.68.63:5001
+2025-01-26 23:46:50,936 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 23:46:52,276 - INFO - Received user query: Show me the total sales for January 2025.
+2025-01-26 23:46:52,276 - INFO - Fetching database schema...
+2025-01-26 23:46:52,276 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:46:52,277 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:46:52,277 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:46:52,277 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:46:52,890 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:46:52,890 - INFO - Fetching table names...
+2025-01-26 23:46:53,028 - INFO - Found 2 tables.
+2025-01-26 23:46:53,028 - INFO - Fetching columns for table: CUSTOMERS...
+2025-01-26 23:46:53,097 - INFO - Found 7 columns in table CUSTOMERS.
+2025-01-26 23:46:53,097 - INFO - Fetching columns for table: SALES...
+2025-01-26 23:46:53,171 - INFO - Found 5 columns in table SALES.
+2025-01-26 23:46:53,171 - INFO - closed
+2025-01-26 23:46:53,202 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:46:53,242 - INFO - Successfully fetched database schema.
+2025-01-26 23:46:53,242 - INFO - Generating SQL query using GPT.
+2025-01-26 23:46:53,921 - INFO - Generated SQL: SELECT SUM(AMOUNT)
+FROM SALES
+WHERE TRUNC(SALE_DATE, 'MM') = TO_DATE('01-01-2025', 'DD-MM-YYYY')
+2025-01-26 23:46:53,921 - INFO - Attempting to connect to Snowflake...
+2025-01-26 23:46:53,921 - INFO - Snowflake Connector for Python Version: 3.13.0, Python Version: 3.9.18, Platform: macOS-15.2-x86_64-i386-64bit
+2025-01-26 23:46:53,922 - INFO - Connecting to GLOBAL Snowflake domain
+2025-01-26 23:46:53,922 - INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+2025-01-26 23:46:54,323 - INFO - Successfully connected to Snowflake.
+2025-01-26 23:46:54,324 - INFO - Executing SQL query: SELECT SUM(AMOUNT)
+FROM SALES
+WHERE TRUNC(SALE_DATE, 'MM') = TO_DATE('01-01-2025', 'DD-MM-YYYY')
+2025-01-26 23:46:54,436 - INFO - closed
+2025-01-26 23:46:54,477 - INFO - No async queries seem to be running, deleting session
+2025-01-26 23:46:54,519 - INFO - Successfully executed SQL query.
+2025-01-26 23:46:54,520 - INFO - Returning results: [(Decimal('445.50'),)]
+2025-01-26 23:46:54,521 - INFO - 127.0.0.1 - - [26/Jan/2025 23:46:54] "POST /query HTTP/1.1" 200 -
