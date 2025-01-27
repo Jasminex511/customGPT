@@ -1,1 +1,6 @@
 .env
+.DS_Store
+.gitignore
+*.iml
+*.xml
+.idea/
