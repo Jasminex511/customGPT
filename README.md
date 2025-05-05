@@ -1,6 +1,6 @@
 # Custom GPT NL2SQL
 
-An interactive Streamlit app that turns natural language into SQL using OpenAI GPT and executes it on connected database.
+An interactive Streamlit app that turns natural language into SQL using OpenAI and executes it on connected database.
 
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-orange?style=flat-square&logo=streamlit)
 ![OpenAI](https://img.shields.io/badge/Powered%20By-OpenAI-blue?style=flat-square&logo=openai)
