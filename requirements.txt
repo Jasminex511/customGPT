@@ -1,4 +1,3 @@
-snowflake-connector-python
 openai==0.28
 python-dotenv
 streamlit
